@@ -1,6 +1,6 @@
 # BRACU-CSE360-Computer_Interfacing
 
-Semester: FALL-2021
+Semester: Fall-2021
 
 Theory Faculty: Shakir Rouf
 
