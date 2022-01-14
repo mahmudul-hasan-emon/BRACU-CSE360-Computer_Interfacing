@@ -9,7 +9,7 @@ Tools:
 2. Proteus
 3. LabView
 
-Project proposal: 
-[Project proposal.pdf](https://github.com/mahmudul-hasan-emon/BRACU-CSE360-Computer_Interfacing/files/7868860/Project.proposal.pdf)
+Project proposal:
+[Click here](https://github.com/mahmudul-hasan-emon/BRACU-CSE360-Computer_Interfacing/files/7868860/Project.proposal.pdf)
 
 𝐃𝐞𝐧𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐯𝐢𝐝𝐞𝐨 𝐥𝐢𝐧𝐤 : https://youtu.be/yFwIhsOcxdY
