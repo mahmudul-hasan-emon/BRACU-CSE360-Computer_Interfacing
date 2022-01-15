@@ -9,4 +9,4 @@ Using sensors:
 2. Fingerprint sensor
 3. Door sensor
 
-[Click here to read our project paper](https://github.com/mahmudul-hasan-emon/BRACU-CSE360-Computer_Interfacing/files/7874276/18301279-19101097-19101098-19101104-19101344_07.pdf)
+Project paper link: [Click here to read our project paper](https://github.com/mahmudul-hasan-emon/BRACU-CSE360-Computer_Interfacing/files/7874276/18301279-19101097-19101098-19101104-19101344_07.pdf)
